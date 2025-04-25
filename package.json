@@ -1,0 +1,14 @@
+
+{
+  "name": "gomange-studio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "sanity dev",
+    "build": "sanity build",
+    "start": "sanity start"
+  },
+  "dependencies": {
+    "sanity": "^3.36.2"
+  }
+}
