@@ -1,4 +1,3 @@
-
 {
   "name": "gomange-studio",
   "version": "1.0.0",
@@ -10,5 +9,8 @@
   },
   "dependencies": {
     "sanity": "^3.36.2"
+  },
+  "devDependencies": {
+    "@sanity/cli": "^3.36.2"
   }
 }
